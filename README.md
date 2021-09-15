@@ -50,3 +50,6 @@ Navigate to the path where OC-Manager was installed and execute ./run.py file.
 ```
 python3 run.py 
 ```
+
+# FIRMWARE
+Firmware installation on [FIRMWARE](https://github.com/ocmanager/OC-Lab-Firmware) 
